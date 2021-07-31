@@ -1,2 +1,3 @@
 first line
 LIne2 file.txt
+Line 3 file.txt
